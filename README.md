@@ -1,2 +1,2 @@
-# Arduino-Smart-Dustbin-aq
+# Arduino-Smart-Dustbin
 -
