@@ -1,2 +1,2 @@
-# # Smart-Waste-Sorting-System
+# Smart-Waste-Sorting-System
 -
