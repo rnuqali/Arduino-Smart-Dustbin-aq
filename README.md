@@ -1,2 +1,2 @@
-# Arduino-Smart-Dustbin
+# # Smart-Waste-Sorting-System
 -
