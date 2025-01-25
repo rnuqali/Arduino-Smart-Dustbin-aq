@@ -10,12 +10,13 @@ The Smart Waste Sorting System is an automated waste management solution designe
 
 ## Requirements
 
-### Hardware
-- *Microcontroller*: Arduino Uno.
-- *Ultrasonic Sensor*: HC-SR04 for object detection.
-- *Soil Moisture Sensor*: Analog sensor (range: 0–1023) for waste classification.
-- *Servo Motor*: SG90.
-- *Connecting Wires*: Male-to-male and male-to-female jumper wires.
+### **Hardware**
+- **Microcontroller**: Arduino Uno.
+- **Ultrasonic Sensor**: HC-SR04 for detecting objects within a predefined range.
+- **Soil Moisture Sensor**: Analog soil moisture sensor with a range of 0–1023, used for classifying waste.
+- **Servo Motor**: SG90 for directing waste to the correct compartment.
+- **Breadboard**: A standard-sized breadboard for assembling the circuit.
+- **Connecting Wires**: Male-to-male and male-to-female jumper wires for connections.
 
 ### Software
 - *Arduino IDE*: For writing and uploading the code to the microcontroller.
