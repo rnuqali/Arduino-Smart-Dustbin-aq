@@ -1,4 +1,4 @@
-# Smart-Waste-Sorting-System
+# Smart-Waste-Sorting-Dustbin
 The Smart Waste Sorting System is an automated waste management solution designed to classify and sort waste as wet or dry using sensors and a servo motor. This system aims to improve hygiene through touch-free operation, ensure accurate classification, and streamline the waste disposal process. It is scalable, efficient, and easy to use, making it suitable for homes, offices, and public spaces.
 
 ## Features
