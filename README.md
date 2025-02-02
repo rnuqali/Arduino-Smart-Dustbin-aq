@@ -45,3 +45,7 @@ The system is designed with the following modules:
 3. *Sorting Module*:
    - The servo motor moves the waste into the corresponding compartment.
 
+
+![Image](https://github.com/user-attachments/assets/e9a84d15-1ec0-4f74-8e6a-81848ff82b97)
+
+![Image](https://github.com/user-attachments/assets/d4b94c1c-b84c-494b-aa76-26753d499f54)
